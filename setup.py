@@ -221,7 +221,7 @@ setup(
     download_url='https://github.com/haata/pycapnp/archive/v%s.zip' % VERSION,
     keywords=['capnp', 'capnproto', "Cap'n Proto", 'pycapnp'],
     classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
         'Operating System :: MacOS :: MacOS X',
@@ -231,6 +231,7 @@ setup(
         'Programming Language :: Cython',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Communications'],
 )
